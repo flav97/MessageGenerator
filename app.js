@@ -4,7 +4,6 @@ const messages = {
     zodiac: ['Aries','Taurus','Gemini','Cancer','Leo','Virgo','Libra','Scorpio','Sagittarius','Capricorn','Aquarius ','Pisces'],
     personality: ['warm','enthusiastic','creative','adaptable','original'],
     expected: ['Find your soulmate','Progress further in your career','Be traveling to new places','Make new connections'],
-    pulhac: ['Progress further in your career','Be traveling to new places','Make new connections']
     
 };
 
